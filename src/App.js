@@ -167,17 +167,3 @@ function App() {
 }
 
 export default App;
-
-// npx hardhat compile
-// npx hardhat run --network volta scripts/deploy.js
-// to deploy the contract and get the contract address
-
-// replace the generated contract address in constant.js
-
-// replace the private key in .env with you wallet private key
-
-// npm install -  to install dependencies
-
-// npm start  -  to start the project
-
-// create multiple accounts(metamask accounts to vote)
